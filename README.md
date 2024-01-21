@@ -1,4 +1,4 @@
-# Excel---Coffee-Bean-and-Sales-Data-Analysis
+# Excel-Coffee_Bean_and_Sales_Data_Analysis
 <p>
 Kaggel dataset api -> kaggle datasets download -d saadharoon27/coffee-bean-sales-raw-dataset<br>
 Documentation - Coffee Data Analysis -> This file contains all data cleaning steps taken in this project.<br>
